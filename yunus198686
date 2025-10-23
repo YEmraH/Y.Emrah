@@ -1,0 +1,312 @@
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - ATV AZAD TV
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - ARB TV AZ
+https://mydo.canlitvplayer.com/arbhd.m3u8?bandwidth=6096&e=1761337225&playlistlength=5&shift=0&sid=coder_62&token=4f13064867773df7d4f7c77ba8ed56fa&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - XEZER TV AZ
+https://mydo.canlitvplayer.com/xazer.m3u8?bandwidth=2096&e=1761337407&playlistlength=5&shift=0&sid=coder_53&token=eb630bef6a1a3d1243823a11d85aaa89&user=37076
+#EXTINF:group-title = "AZERBAYCAN TV" tvg-name = "1",AZ - KANAL S AZ
+https://mydo.canlitvplayer.com/kanals.m3u8?bandwidth=6096&e=1761337545&playlistlength=5&shift=0&sid=coder_57&token=3ec2331945f96f535d33e1ed37c53c3b&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - SPACE TV AZ
+https://mydo.canlitvplayer.com/space.m3u8?bandwidth=6096&e=1761337581&playlistlength=5&shift=0&sid=coder_75&token=d6aa2d0b8ba388b8e59e52973b6062d3&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - İDMAN TV AZ
+https://proxy.canlitvplayer.com/str.yodacdn.net/idman/mono.m3u8?token=c4032456257a791a1a7bf764cbd6eedb68122220-fb16ea2ab3df8a15166970d14dda9b52-1761261681000000-1761250881000
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - İCTİMAİ TV AZ
+https://mydo.canlitvplayer.com/ictimai.m3u8?bandwidth=2096&e=1761337701&playlistlength=5&shift=0&sid=coder_52&token=6ca92f85b5555b2d03b9b7b56082d8cb&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - ARB 24 TV
+https://mydo.canlitvplayer.com/arb24.m3u8?bandwidth=2096&e=1761337733&playlistlength=5&shift=0&sid=coder_51&token=9ecdb2f01831aefeaeb95d1861b12231&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - BAKU TV
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - CBC TV AZ
+https://mydo.canlitvplayer.com/cbcaz.m3u8?bandwidth=2096&e=1761337875&playlistlength=5&shift=0&sid=coder_52&token=db0da19d9b0d444a2c737c08b6d5949f&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - DÜNYA TV AZ
+https://mydo.canlitvplayer.com/dunya.m3u8?bandwidth=2096&e=1761337925&playlistlength=5&shift=0&sid=coder_53&token=c4cdeb47b8746aff74636417b06ba979&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - REAL TV AZ
+https://mydo.canlitvplayer.com/real.m3u8?bandwidth=2096&e=1761337955&playlistlength=5&shift=0&sid=coder_79&token=6159486ae8e2bb5f5bc91d7ee2883fca&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - SHOW PLUS TV AZ
+https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - SEHİYYE TV AZ
+https://mydo.canlitvplayer.com/shtv.m3u8?bandwidth=2096&e=1761338065&playlistlength=5&shift=0&sid=coder_78&token=0412dd067a0c9d23d3ea33c32ae6f9ac&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - QAFQAZ TV Az
+https://proxy.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=e637a593712820e8379bef67fb1286df4d677e18-7615dc58e7232e7fcdcbe2e18cbea731-1761156729000000-1761145929000
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - TMB TV AZ
+https://mydo.canlitvplayer.com/tmbtv.m3u8?bandwidth=2128&e=1761338161&playlistlength=5&shift=0&sid=coder_52&token=43f70425b86e4c5dc5a02ac859a1a1a5&user=37076
+#EXTINF:group-title = "AZERBAYCAN TV" tvg-name = "1",AZ - MUZ TV AZ
+https://proxy.canlitvplayer.com/str.yodacdn.net/mtvaz/mono.m3u8?token=65a4f0fb7bb704efefac57900918d5d00919ad6a-74d571bc3bb81b111d40b724975e383c-1761159600000000-1761148800000
+#EXTINF:group-title = "AZERBAYCAN TV" tvg-name = "1",AZ - ARB GÜNEŞ Az
+https://mydo.canlitvplayer.com/arbgunes.m3u8?bandwidth=2096&e=1761338198&playlistlength=5&shift=0&sid=coder_52&token=6602694c97750e763efa642f79596acc&user=37076
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - GÜNAZ TV
+https://gunazsrs.2meet.az/live/livestream.m3u8
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - EL TV Az
+https://proxy.canlitvplayer.com/str.yodacdn.net/eltv/mono.m3u8?token=5af7eb3db5f764b5ab204d279225a42ee50a756d-92d6f9c1ace0a2f50cd87c6a624a6e7f-1761157030000000-1761146230000
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - NAXÇIVAN TV AZ
+https://proxy.canlitvplayer.com/str.yodacdn.net/ntv/mono.m3u8?token=eyJpcCI6IjQ0LjIyNy4yMTcuMTQ0IiwidWEiOiIiLCJleHAiOjE3NjExNTAxNzYsImp0aSI6IjUyZWYxMGMwYTdmZjcyYzEifQ==.0M4T5yvm6mWiBAWIqyknm37ybtRevk6qfdhHg9E4CCU=
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - APA TV AZ
+https://proxy.canlitvplayer.com/str.yodacdn.net/apatv/mono.m3u8?token=5911f9c700558efdd0260800f028d9cbc996d8c5-249615a9ee98eaa3f83071a50cd5ce67-1761157159000000-1761146359000
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - Şehir TV A'dan Z'ye
+https://proxy.canlitvplayer.com/str.yodacdn.net/vip/mono.m3u8?token=42593a89627bef2aaa6380490383c8d2028e8b29-a7ae462a1aba7f7e3721ec7a4dc3c529-1761157268000000-1761146468000
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - FORTUNA TV AZ
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMi8yMDE4IDEwOjExOjA2IFBNJmhhc2hfdmFsdWU9cGtzUElvZjBwOUFIcDZRenpxQmxLdz09JnZhbGlkbWludXRlcz01
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - AZ STAR TV
+https://live.livestreamtv.ca/azstar/smil:azstar.smil/chunklist_w585852864_b2000000_slen.m3u8
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - AZ TV
+https://str2.yodacdn.net/aztv_300_to_small/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE3OC4yMzMuMTM2LjgiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4Nj Q7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4wIiwiZXhwIjoxNzYxMTUxNTYyLCJq dGkiOiIxZGRmYTk0ZTVlNWI1MWZhIn0%3D.KUDscfbOhhDyj79sncvXVm5p+YgXA%2FyfiuZZwV6CAE0%3D
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - MEDENİYYET TV AZ
+https://str2.yodacdn.net/meden_300_to_small/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE3OC4yMzMuMTM2LjgiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4N jQ7IHJ2OjE0NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzE0NC4wIiwiZXhwIjoxNzYxMTUxNjQyLCJ qdGkiOiJmYzQwZTNlM2MwMjAwOTI4In0%3D.i3etij2dEU3nfPmP+epCC8sgjIUS96xh4Vw49w3iCMs%3D
+#EXTINF:group-title="GÜRCİSTAN TV" tvg-name="1",GR - 1TV GEORGİA
+https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8
+#EXTINF:group-title="GÜRCİSTAN TV" tvg-name="1",GR - 2TV GÜRCİSTAN
+https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - 1TV.COM
+https://streaming.televizor-24-tochka.ru/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - DOM KİNO
+https://streaming.goodstream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - LEGENDARNYY 24
+https://sevas.1tvcrimea.ru/legendarniy24.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - TNT
+https://streaming.televizor-24-tochka.ru/live/38-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - RUSSİA-24
+https://streaming.goodstream.cyou/live/30-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - RU.TV
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:group-title="RUSİYE TV" tvg-name="1",RU - İZVESTİA
+https://igi-hls.cdnvideo.ru/igi/igi_tcode/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - ASTRAHAN SPORT
+https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - MUZ-TV
+https://streaming.televizor-24-tochka.ru/live/618-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - STS
+https://streaming.televizor-24-tochka.ru/live/296-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - NANO HD
+https://s1.tv-nano.com/Nano_rec/tracks-v1a1/mono.ts.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - 360 NEWS
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.ts.m3u8?hls_proxy_host=5a1d3b5f5754e92f17cc47f3adee28f3
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - S-86
+https://sitv.ru/hls/s86.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - Current Time TV
+https://rfe-ingest.akamaized.net/hls/live/2033043-b/tvmc05/playlist_1080.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - 24HH
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/track_105_a38f1be2/chunklist.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - Zvezda
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - RBC-TV
+https://e2-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e2&t=C/gs0a
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - NTV RU
+https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8
+#EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - ZDF HD
+https://xyz.canlitvplayer.com/zdf/tracks-v1a1/mono.ts.m3u8?token=72dbba65b803550d2ca44e738904bdbf556c730b-b4bb2b146f9d11e67ecfb1bd43db68e4-1761164330-1761153530
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - SAT 1
+https://corsply07c.cfpass2.workers.dev/?url=https://s6.hopslan.com/sat1z/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - TELE 5
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/tele5X/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - PRO 7 HD
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/pro7z/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - KABEL 1
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/kabel1z/tracks-v1a1/mono.m3u8
+#EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - KABEL EİNS DOKU
+https://corsply07c.cfpass2.workers.dev/?url=https://s6.hopslan.com/dokuX/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - SAT 1 ALTIN
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master1080p5000.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - DMAX DE
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/dmaxX/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - 3 SAT
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/3sat/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1",DE - SİXX TV
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/sixX/tracks-v1a1/mono.m3u8
+#EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - PRO 7 MAXX
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/pro7maxxX/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - ARTE DE
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/arteX/tracks-v1a1/mono.m3u8
+#EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - VOX TV
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/voxz/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - RTL TV
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/rtl1/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - RTL 2
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/rtl2q/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1",DE - RTL NİTRO
+https://corsply07c.cfpass1.workers.dev/?url=https://s6.hopslan.com/nitro1/tracks-v1a1/mono.m3u8
+#EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - Süper RTL
+https://corsply07c.cfpass2.workers.dev/?url=https://s6.hopslan.com/superX/tracks-v1a1/mono.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - WDR HD
+https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master_3328.m3u8
+#EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - ATV Antwerpse TV
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/chunks.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - TVO
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/chunks.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1", DE - NDR
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master-1080p-5000.m3u8
+#EXTINF:group-title='ALMANYA TV' tvg-name='1',DE - TİROL TV
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - oe24 TV
+https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-avc1_3400000=10003.m3u8
+#EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - BLİZZ TV
+https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/chunklist_b3628000.m3u8
+#EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - AİLE TV
+https://stream03.welocal.stream/stream/fhd-frankenfernsehen_199261/ngrp:stream_all/chunklist_b3628000.m3u8
+#EXTINF:group-title = "ALMANYA TV" tvg-name = "1",DE - TELE 5 POLSKA
+https://edge15.vedge.infomaniak.com/livecast/rougetv/chunklist_w125753278.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - Rouge TV
+https://edge15.vedge.infomaniak.com/livecast/rougetv/chunklist_w1353487617.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - C NEWS
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd-avc1_4500000=10006-mp4a_96000_fra=20000.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - NATURAL NTR TV
+https://edge.socialsmart.tv/naturaltv/bant1/chunks.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - CARAC TV
+https://edge19.vedge.infomaniak.com/livecast/event/chunklist_w582786298.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - FX2
+https://toonixhls.wns.live/hls/stream.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - WİLDSİDE TV
+https://versatile-wildsidetv-1-fr.samsung.wurl.tv/3000.m3u8
+#EXTINF:group-title = "FRANSA TV" tvg-name = "1", FR - TRACEURBAN
+https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv//28/1280x720_2657600/index.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - TRACE LATİNA
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/06.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - MYZENTV
+https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/ts-us-e2-n1/playlist/amg01255-secomcofites-my-myzen-en-plex//19/1920x1080_4716800/index.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - PERSİA CİNEMA
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - PERSİA FAMİLY
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - PERSİA JUNİOR
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - PERSİA KOREA
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - FİGARO TV
+https://figarotv-live.freecaster.com/live/freecaster/figarotv-audio_fre=96000-video=3500000.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - PERSİA NOSTALGİ
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - MOSELLE TV
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/chunklist_w1924280138_b4128000.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - PERSİA COMEDY
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - LATİNO
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - PERSİA TWO
+https://twohls.persiana.live/hls/stream.m3u8
+#EXTINF:group-title="FRANSA TV" tvg-name="1",FR - PERSİA SONNATİ
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - MOVİESPHERE
+https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:group-title="AMERİKA BİRLEŞİK DEVLETLERİ TV" tvg-name="1",ABD - HOLLYWOOD'DA ÜRETİLMİŞTİR
+https://connection3-ent-nz.samsung.wurl.tv/3000.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - CİNELİFE
+https://magnoliaa-cinelife-oando-n6z8u.amagi.tv/playlist/magnoliaA-cinelife-oando//125/1920x1080_5058864/index.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - DARK MASTTER TV
+https://tricoast-tv-dark-matter-01-us.ono.wurl.tv/3000.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - SONY CANAL NOVELAS
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/92db722f-29dc-4815-bb78-40cb2caf7d67/5.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - DATELİNE
+https://dz59iptwz5rxs.cloudfront.net/live/master_5.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - SPORTSGRİD
+https://sportsgrid-samsungus.amagi.tv/playlist1080pl.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - NEWSMAX TV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/3.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - FAİLARMY
+https://failarmy-international-nl.samsung.wurl.tv/3000.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - RIGHTNOW TV
+https://2-fss-1.streamhoster.com/pl_154/amlst:205448-2145652/720/rightnowtvSCTE35.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - GUSTO TV
+https://amg01077-gustoworldwidem-gustotvnz-samsungnz-3fu5q.amagi.tv/ts-eu-w1-n2/playlist/amg01077-gustoworldwidem-gustotvnz-samsungnz//44/1920x1080_6046040/index.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - ABN BİBLE MOVİES
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:group-title="AMERİKA BİRLEŞİK DEVLETLERİ TV" tvg-name="1",ABD - CBS HABERLERİ
+https://cbsn-bos.cbsnstream.cbsnews.com/out/v1/589d66ec6eb8434c96c28de0370d1326/master_2.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - 30A MUSİC
+https://30a-tv.com/feeds/720p/6.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - FIDELETV
+https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/chunklist_w1323825639.m3u8
+#EXTINF:group-title="AMERİKA BİRLEŞİK DEVLETLERİ TV" tvg-name="1",ABD - DIŞ MEKAN KANALI
+https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz//50/1920x1080_5287612/index.m3u8
+#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - CDN
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
+ #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RakutenDOCUMENT
+https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/7434ff09-c6b0-4a5b-b6e1-7e2884c761e1/4.m3u8
+#EXTINF:group-title = "RAKUTEN TV" tvg-name = "1",RT - RAKUTEN FAMİLİA
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/51eafcde-fb29-492b-8d2a-073ae2779ad0/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES UK
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/e02893a8-2fc6-4db4-9b18-dddd1d7fbce7/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN ACTİON MOVİES
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/d6bbfc4b-d3df-4bd5-9cdb-f02fcfccba89/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 1
+https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/1423805d-028f-434f-84a0-b03c1ff1a3b0/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 2
+https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/1539e234-3e10-4e86-8d3c-9aaebf8b8da8/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 3
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/27666830-da1c-40d1-89a8-5642ca64c376/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 4
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/f2a0e6d5-2332-47f7-bed1-a6a811b0984a/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 5
+https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/aec59c25-2797-4555-971b-66a08cd6e21e/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 6
+https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/abe8f89c-4dc9-47cb-88c8-80c23b438f65/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 7
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/88769d87-ff3d-4b76-9904-135657b93bb9/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 8
+https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/51bf7b01-9a6d-4c2e-9cb3-8ae734b52a48/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 9
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/3c72a91d-8d84-48a6-a34f-7ea92c253f2e/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 10
+https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/47f352a7-ed12-4286-a7df-5d646fca743d/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES ACTİON
+https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/99f24c88-367b-42a6-95f2-dc2fb8a8537c/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES COMEDİ
+https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/526d6870-c647-44a5-bab4-7fe73adb4446/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES DRAMES
+https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/d2c2e456-41c8-4b57-a971-783e56cdaef7/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES FAMİLLE
+https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/a787e0bd-508b-4620-b1ed-b2b5fe35f264/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES ROMANCE
+https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/75a2b98f-fe88-4f60-bfd3-8b6994844be2/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES KORKU
+https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/40330351-155d-4bfb-b82f-9e207a7a14f0/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN TV KORKU
+https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/0d1ec8e9-3670-4d83-9a2d-0c29b9216435/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES NORDİC
+https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/8f7136b1-d238-4f66-9b67-5f7f43ad1c8f/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN REALİTY
+https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/6e1beaa7-24e3-424e-8c2a-592b4eec6818/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN VİKİ
+https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/4300.m3u8
+#EXTINF:group-title = "RAKUTEN TV" tvg-name = "1",RT - RAKUTEN SCİ-Fİ
+https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/91866ca5-cee9-4c96-8a26-0c20c6cfbb08/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN TOP FİLMS
+https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/5e73e0cc-42c2-4622-a6f2-5f50f95231c2/4.m3u8
+#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN TOP FİLMS
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/000c52cb-b3fb-4e95-84c7-422a91400f58/4.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - SARAS 1
+https://edge17.vedge.infomaniak.com/livecast/ik:event/chunklist_w1990290707.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - SARAS 2
+https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/chunklist_w1956612144_b300072 0.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - SARAS 3
+https://edge14.vedge.infomaniak.com/livecast/ik:lfmmd/chunklist_w2059604686_b3000000.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - SARAS 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/chunklist_w1359150392_b3000000.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - TV100 Greece
+https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - Groovy TV
+https://web.onair-radio.eu/groovytv/groovytv/chunklist_w542491744.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - Biz Sinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - Biz TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - Popstar! TV
+https://linear-10.frequency.stream/dist/zype/10/hls/master/çalma listesi_1920x1080.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - Dove Channel
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist_1920x1080.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - AfroLand TV
+https://alt-al.otteravision.com/alt/al/al_1080p.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - Revry TV
+https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist_1920x1080.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - MyTime Movie
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - Cine TV 1
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist720p.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index_1.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - Brat TV
+https://brat-samsung-us.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - BBC Drama Italy
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:group-title="KARIŞIK TV" tvg-name="1",KR - BBC Doctor Who Classic
+https://bbc-classicdrwho-1-us.xumo.wurl.tv/3000.m3u8
