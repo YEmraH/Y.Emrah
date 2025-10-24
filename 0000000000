@@ -726,7 +726,6 @@ https://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.ts.m3u8
 https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=98508f903ded3b25391e9dbdc2316a96
 #EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - UGRATV
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ecd2cbbe64df3539686d3c7210dc33a1
-#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - 
 #EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - ZDF HD
 https://xyz.canlitvplayer.com/zdf/tracks-v1a1/mono.ts.m3u8?token=72dbba65b803550d2ca44e738904bdbf556c730b-b4bb2b146f9d11e67ecfb1bd43db68e4-1761164330-1761153530
 #EXTINF:group-title="ALMANYA TV" tvg-name="1",DE - SAT 1
@@ -853,7 +852,6 @@ https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/chunklist_w1323825639.m3u
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n2/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/cb573d19736c678d99d43e65d6ef4882bb7b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da71b813727616709e86b262c9ee475ae98710282ab27a1e50fe0f05a67c1177dfe60247d469e1375551ac086f0436d5e55dff6b0393880b967e28ddadc0303c740842995f5be7a85df2f8e70b4cdc0ee48b3c700e8167cdb026abc62adfc59600cb0aa449cb26ecf1d01007ddb0aca512ea0ee34e6430aa82eaf21eb6db47a3c88f647bed19afb96d2784f1c6842919945d564eedf281d80f9a419bd974d13272d361e9b2f5f557cadd2d8798daac9ba6119c6519eeab7e7435aff5a5c5d22627bc68f9b7e5e7831df3c639775dc061d423646ddead8b5cb3ca1b92b93496f447297891c10bcbc6f2b4e6bedb1ec765d291a0c37d5058395556d213f2d32dfc2cde73a78141710d1d14fcca0484a0d04c3564409ecf0f804755e9a9fee9b53932c464144dfb20880b770be2002c2db563a9e07906ee0b059f3c31f7594ff164f5aa29f3a8c3a54b7b82d7c946f078fcf76df6f311a279334908d1a77cbf2498f2544900c4f285d077e920ff0b1048f06e24ef03/50/1920x1080_5287612/index.m3u8
 #EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - CDN
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
-#EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - 
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RakutenDOCUMENT
 https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/7434ff09-c6b0-4a5b-b6e1-7e2884c761e1/4.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN FAMİLİA
@@ -948,7 +946,6 @@ https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/1080p/index.m
 https://bbc-classicdrwho-1-us.xumo.wurl.tv/3000.m3u8
 #EXTINF:group-title="CİNAMA TV" tvg-name="1",KR - Z NATİON
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/518d6a1f-35c1-4b4d-bec3-1af68b03fb0b/5.m3u8
-#EXTINF:group-title="CİNAMA TV" tvg-name="1",KR - 
 #EXTINF:group-title="BELGESEL TV" tvg-name="1",BL - HD Travel TV
 https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/f6b44562-22ba-4d26-bc22-66b1ab386ea9/2.m3u8
 #EXTINF:group-title="BELGESEL TV" tvg-name="1",BL - Travelxp
@@ -983,4 +980,4 @@ https://aenetworks-worldwartv-rakuten.amagi.tv/1080p-vtt/index.m3u8
 https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/855dc5b6-b25b-4993-827a-d58bf1fd79e1/2.m3u8
 #EXTINF:group-title="BELGESEL TV" tvg-name="1",BL - Russia Today Documentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:group-title="BELGESEL TV" tvg-name="1",BL - 
+
