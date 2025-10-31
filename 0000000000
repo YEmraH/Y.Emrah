@@ -531,11 +531,13 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv
 #EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - İDMAN TV AZ
 https://str2.yodacdn.net/idman_300_to_small/tracks-v1a1/mono.ts.m3u8?token=eyJpcCI6IjE3OC4yMzMuMTM5LjkyIiwidWEiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxNDQuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xNDQuMCIsImV4cCI6MTc2MTQyOTAyMCwianRpIjoiMjU4YTMxM2E1YjlhYTM3OCJ9.RRX24%2FlqnN%2FQSBaZ+U7ydaaJJB+LUslAhnREo9UZtVQ%3D
 #EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - İCTİMAİ TV AZ
-https://yayin2.canlitv.fun/live/ictimaitv.stream/chunklist_w573522176.m3u8?hash=43baecccfa92f633299f40426771f116
+https://4fa356296746f02222.pages.dev/cefc8a875b06cc6da16ca7dd99157dee/DmodYM9CdSNPUZyc2x7VWd/5133/4fa356296746f02222.pages.dev/chunklist_hd.m3u8?verify=1761956898872~178.233.137.106~e1e13af0c8d3d2d61cabc09473cda056
 #EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - ARB 24 TV
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
 #EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - BAKU TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - CBCSPOR TV AZ
+https://4fa356296746f02222.pages.dev/cefc8a875b06cc6da16ca7dd99157dee/DmodYM9CdSNPUZyc2x7VWd/5131/4fa356296746f02222.pages.dev/chunklist_hd.m3u8?verify=1761957144306~178.233.137.106~6478539bfea21ecb34830d78af2cd17b
 #EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - CBC TV AZ
 https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
 #EXTINF:group-title="AZERBAYCAN TV" tvg-name="1",AZ - DÜNYA TV AZ
@@ -632,6 +634,10 @@ https://songtv.hls.iptvdc.com/web-russia/tracks-v3a1/mono.m3u8
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/3000.m3u8
 #EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - TOP BARCA
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/cb543d19736c678d99d43e65d9ef49a2f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759e9cac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce12d4b43aa4d6c0762ddef5dfe764f97805c8d62288afbdd7c31745a5e82540ce4a958a5a9e25c418d6dc3f42668adb4ebc5a870adb60e8de49119c516cf54ce2eafe393ab48c44fb4bb57d814eb3573354af566f30bf4ec4faccf887c34de0040c1e12694c1c1ab345ba3555949eaeac6f50295769cdc71d23065fe68f93eae5ce8204d4f83c137b55ec3bb74e71d848e344432b2eab08fb41c20a967f5a0fcd1498cf89c245548d364d42e2a77c5b39b54ccf41c98b22c92a729330c80c015d5cde9c3d8b9831cc87e8adfa2cc66025c755e53d209ecca249b0ed87ba3c15c730c1c14fdcb0595c6ff5722674989981185474ff78bf9f6b5640cc36e1f55ff73990a551eab1a583cb47db7ca4629e341278a2f34f75434fa33dab13ef0a1d4fd4676f5e9ce4cfb60f8a648b5d207ba66285612b9907b09a52d976360c16b2a4fd45c64e06947ffb57588a8a1404f/76/1920x1080_5129264/index.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - Match Futbol 2
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:group-title="RUSİAN TV" tvg-name="1",RU -  Setanta Sport
+https://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8?rand=0.3198532320165396
 #EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - UNİVERSİTE 
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w973591500_b3628000_slru.m3u8
 #EXTINF:group-title="RUSİAN TV" tvg-name="1",RU - YUTV
@@ -845,63 +851,25 @@ https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/ts-eu-w1-n
 #EXTINF:group-title="UNİTED STATES TV" tvg-name="1",US - CDN
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/1920x1080_5711200/index.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RakutenDOCUMENT
-https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/7434ff09-c6b0-4a5b-b6e1-7e2884c761e1/4.m3u8
+https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/b7895763-9426-4d95-9da6-f8dc9133f179/4.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN FAMİLİA
-https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/51eafcde-fb29-492b-8d2a-073ae2779ad0/4.m3u8
+https://48faa1daf24549fab34594bc5bdd99f2.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/4e96814e-5029-4cd3-ad48-74541e34ec69/4.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES UK
-https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/e02893a8-2fc6-4db4-9b18-dddd1d7fbce7/4.m3u8
+https://ead2625dd95b42dabfd015fadcf144e3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6222/58516bb5-4490-4394-8d09-4d19741b6bc6/4.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN ACTİON MOVİES
-https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/d6bbfc4b-d3df-4bd5-9cdb-f02fcfccba89/4.m3u8
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/245586c8-6fae-4b02-8ba1-f9adbae7a17a/4.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 1
-https://alarm-for-cobra-rakuten-tv-fr.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6477/1423805d-028f-434f-84a0-b03c1ff1a3b0/4.m3u8
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/ec51a2b1-82e2-4ed9-b7f6-21e00d75b52c/2.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 2
-https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/1539e234-3e10-4e86-8d3c-9aaebf8b8da8/4.m3u8
+https://newidco-rakutenviki-2-us.lg.wurl.tv/3000.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 3
-https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/27666830-da1c-40d1-89a8-5642ca64c376/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 4
-https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/f2a0e6d5-2332-47f7-bed1-a6a811b0984a/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 5
-https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6216/aec59c25-2797-4555-971b-66a08cd6e21e/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 6
-https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/abe8f89c-4dc9-47cb-88c8-80c23b438f65/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 7
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/88769d87-ff3d-4b76-9904-135657b93bb9/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 8
-https://asian-cinema-rakuten-tv-it.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6431/51bf7b01-9a6d-4c2e-9cb3-8ae734b52a48/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 9
-https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/3c72a91d-8d84-48a6-a34f-7ea92c253f2e/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES 10
-https://e3207568b726401995c25670faaf32e4.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6203/47f352a7-ed12-4286-a7df-5d646fca743d/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES ACTİON
-https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/99f24c88-367b-42a6-95f2-dc2fb8a8537c/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES COMEDİ
-https://cc9f70371e7144e7acae4de8b5832d7a.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6183/526d6870-c647-44a5-bab4-7fe73adb4446/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES DRAMES
-https://f396f4db84a54f7bb496b2541477b626.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6095/d2c2e456-41c8-4b57-a971-783e56cdaef7/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES FAMİLLE
-https://b3088e48baab418a9a95dc8110a1b736.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6206/a787e0bd-508b-4620-b1ed-b2b5fe35f264/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES ROMANCE
-https://9affb6144c4c4cdca25d58908cb55a64.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6195/75a2b98f-fe88-4f60-bfd3-8b6994844be2/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES KORKU
-https://thriller-rakuten-tv-fr.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6479/40330351-155d-4bfb-b82f-9e207a7a14f0/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN TV KORKU
-https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/0d1ec8e9-3670-4d83-9a2d-0c29b9216435/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN MOVİES NORDİC
-https://4aa9ef08b70d4b0c8f3519c5950b1930.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6303/8f7136b1-d238-4f66-9b67-5f7f43ad1c8f/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN REALİTY
-https://68f6dfd1f2bd415b9c42f1d383004b69.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6233/6e1beaa7-24e3-424e-8c2a-592b4eec6818/4.m3u8
+https://newidco-rakutenviki-3-mx.lg.wurl.tv/3000.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN VİKİ
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/4300.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN SCİ-Fİ
-https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/91866ca5-cee9-4c96-8a26-0c20c6cfbb08/4.m3u8
 #EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN TOP FİLMS
-https://93ed06eba1ef4cf783b66dc6ea7c4f28.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5986/5e73e0cc-42c2-4622-a6f2-5f50f95231c2/4.m3u8
-#EXTINF:group-title="RAKUTEN TV" tvg-name="1",RT - RAKUTEN TOP FİLMS
-https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/000c52cb-b3fb-4e95-84c7-422a91400f58/4.m3u8
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/f125845b-2b64-4669-aeb4-62abd2a5abb3/4.m3u8
 #EXTINF:group-title="Switzerland" tvg-name="1",SW - WEDO TV PANİC TV
-https://amg27164-amg27164c1-amgplt0181.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27164-amg27164c1-amgplt0181/62a5c74b-b5c9-11f0-980a-8e6768bb8e8f/143/1920x1080_4300000/index.m3u8
-#EXTINF:group-title="Switzerland" tvg-name="1",SW - WEDO TV PANİCO TV
-https://amg27164-amg27164c2-amgplt0181.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27164-amg27164c2-amgplt0181/bf726cf8-b5c9-11f0-8bdb-42ca035e0de4/89/1920x1080_4300000/index.m3u8
+https://amg27164-amg27164c1-amgplt0181.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27164-amg27164c1-amgplt0181/ff15241a-b6a2-11f0-ab9b-92eccad0e4f1/189/1920x1080_4300000/index.m3u8
 #EXTINF:group-title="CİNAMA TV" tvg-name="1",CN - SARAS 1
 https://edge17.vedge.infomaniak.com/livecast/ik:event/chunklist_w1990290707.m3u8
 #EXTINF:group-title="Switzerland" tvg-name="1",SW - SARAS 2
@@ -968,6 +936,8 @@ https://streams2.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/ebe90fdd-a309-4e12-84cc-a003db0b9e27/2.m3u8
 #EXTINF:group-title="BELGESEL TV" tvg-name="1",BL - Go2Travel TV
 https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:group-title="BELGESEL TV" tvg-name="1",BL - 4K 
+https://travelxp-travelxp-4-fr.rakuten.wurl.tv/3000.m3u8
 #EXTINF:group-title="BELGESEL TV" tvg-name="1",BL - 4K Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
 #EXTINF:group-title="BELGESEL TV" tvg-name="1",BL - Law and Crime
